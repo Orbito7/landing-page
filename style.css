@@ -1,0 +1,39 @@
+* {
+    margin:0px;
+}
+
+body {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
+nav {
+    display: flex;
+    background-color: #1F2937;
+    padding: 20px 100px 20px 100px;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    margin-right: auto;
+    align-items: center;
+    font-size: 24px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.header-links {
+    color: #E5E7EB;
+}
