@@ -171,3 +171,12 @@ header {
 .banner h3 {
   color: #f9faf8;
 }
+
+footer {
+  display: flex;
+  background-color: #1f2937;
+  color: #f9faf8;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
